@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 args="."
 if [[ $# -ne 0 ]]; then
